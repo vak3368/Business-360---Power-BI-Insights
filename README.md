@@ -141,13 +141,7 @@ This dashboard enables business users to:
 
 ---
 
-## 🚀 Live Dashboard
 
-**Power BI Service:**
-
-👉 *Paste your published Power BI report link here*
-
----
 
 
 

@@ -149,27 +149,16 @@ This dashboard enables business users to:
 
 ---
 
-## 📂 Repository Structure
 
-```
-Business-Insights-360/
-│
-├── README.md
-├── screenshots/
-├── documentation/
-└── presentation/
-```
-
----
 
 ## 👨‍💻 Author
 
-**Vishnu**
+**Vishnu Anilkumar**
 
 Aspiring Data Analyst passionate about Business Intelligence, Data Visualization, SQL, Python, and Power BI.
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub Profile URL)*
+- LinkedIn: *(https://www.linkedin.com/in/vishnuanilkumar3/)*
+- GitHub: *(https://github.com/vak3368)*
 
 ---
 

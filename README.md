@@ -52,7 +52,7 @@ Navigation page providing quick access to all dashboard views.
 - Net Profit %
 - Performance vs Benchmark
 
-![Finance](screenshots/Finance View.png)
+![Finance](screenshots/Finance_View.png)
 
 ---
 
@@ -63,7 +63,7 @@ Navigation page providing quick access to all dashboard views.
 - Gross Margin Analysis
 - Revenue Trends
 
-![Sales](screenshots/Sales.png)
+![Sales](screenshots/Sales_View.png)
 
 ---
 
@@ -74,7 +74,7 @@ Navigation page providing quick access to all dashboard views.
 - Product Performance
 - Regional Analysis
 
-![Marketing](screenshots/Marketing.png)
+![Marketing](screenshots/Marketing_View.png)
 
 ---
 
@@ -85,7 +85,7 @@ Navigation page providing quick access to all dashboard views.
 - Absolute Error
 - Operational Performance
 
-![Supply Chain](screenshots/SupplyChain.png)
+![Supply Chain](screenshots/SupplyChain_View.png)
 
 ---
 
@@ -97,7 +97,7 @@ Navigation page providing quick access to all dashboard views.
 - Revenue Contribution
 - Business KPIs
 
-![Executive](screenshots/Executive.png)
+![Executive](screenshots/Executive_View.png)
 
 ---
 

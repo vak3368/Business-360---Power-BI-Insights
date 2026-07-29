@@ -40,7 +40,7 @@ This dashboard consolidates data into a single interactive platform, helping sta
 ### 🏠 Home
 Navigation page providing quick access to all dashboard views.
 
-![Home](screenshots/Home.png)
+![Home](screenshots/Homepage.png)
 
 ---
 

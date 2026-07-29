@@ -52,7 +52,7 @@ Navigation page providing quick access to all dashboard views.
 - Net Profit %
 - Performance vs Benchmark
 
-![Finance](screenshots/Finance.png)
+![Finance](screenshots/Finance View.png)
 
 ---
 
